@@ -1,0 +1,8 @@
+{
+  "name": "智学批改 - AI 智能作业批改系统",
+  "description": "一个专业的 AI 智能作业批改与学情分析系统，支持手写识别、智能批改、多维度学情分析及个性化学习建议。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
